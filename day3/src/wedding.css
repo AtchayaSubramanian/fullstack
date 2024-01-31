@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .homepic{
+     width: 100%;
+     background-size: cover;
+     height: 100vh;
+     overflow: auto;
+     opacity: 0.5%;
+ }
+ /* .container{
+     position: relative;
+ } */
+ .home{
+    /* background-color: aqua; */
+     background-image: url("");
+     background-Repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        overflow: auto;
+        filter: brightness(100%);
+
+ }
+ .text-block {
+     text-align: center;
+     /* color: white; */
+     padding-left:20px;
+ /* text-align: right; */
+    /* padding-right: 400px;; */
+     /* background-repeat: no-repeat; */
+     /* background-size: cover; */
+ 
+     /* opacity: 0.5; */
+
+        display: flex;
+        justify-content: flex-end;
+      
+   }
+   .text1{
+     color: rgb(2, 1, 14);
+     padding-right: 250px;
+     padding-left: 550px;;
+     text-align: center;
+     font-style:italic;
+     padding-top: 40px;
+     font-size: 3rem;
+     display: flex;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+.WEDDING1
+{
+text-align: center;
+}
