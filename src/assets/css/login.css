@@ -1,0 +1,100 @@
+.login-container {
+  width: 400px;
+  margin: 50px auto;
+  /* padding: 20px; */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #ffffff;
+  border:3px solid black;
+  padding-left: 80px;
+  padding-right: 80px;
+     padding-top: 50px; 
+   
+  margin-top: 100px;
+   /* padding-bottom: 250px; */
+  margin-bottom: 100px; 
+  /* display: flex; */
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.login-container h2 {
+  
+  
+  /* margin-bottom: 80px; */
+  text-align: center;
+  margin-bottom: 20px;
+
+  color: #333333;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.BUF{
+  color: #555555;
+text-align: center;
+font-size: medium;
+margin-top :20PX;
+}
+
+.form-grou {
+  margin-bottom: 20px;
+}
+
+.forlabel {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #555555;
+}
+
+.forinput {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.pa1
+{
+  background-position: top; 
+  background-image: url("https://www.v3events.in/images/slider/v3_f1.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover; /* Cover the entire background */
+  background-position: center;
+  background-size: 100% 100%;
+  height: 100vh;
+  display: flex; 
+
+}
+.login-button:hover {
+  /* background: linear-gradient(to right, #2193b0, #6dd5ed); */
+  background-image: linear-gradient(to right, #FF69B4, #8A2BE2);
+}
+
+.san {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.san a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.san a:hover {
+  text-decoration: underline;
+}
